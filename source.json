@@ -3,9 +3,8 @@
     "id":"com.neigerium.vpm-repos",
     "url":"https://snow1226.github.io/vpm-repos/index.json",
     "author":{
-        "email":"",
         "name":"Snow1226",
-        "url":"https://snow1226.github.io/vpm-repos/"
+        "url":"https://github.com/Snow1226"
     },
     "description":"Neigerium VPM Repository",
     "infoLink":{
